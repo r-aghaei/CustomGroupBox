@@ -10,6 +10,6 @@ In this example, I've created a custom group box having following features:
 
 **Some notes:**
 
--The GroupBox control supports transparent background unless you use System as FlatStyle.
+- The GroupBox control supports transparent background unless you use System as FlatStyle.
 
 - Using `ForeColor` property of `GroupBox` to render the title of control may be annoying because `ForeColor` is an ambient property and will be inherited by child controls. So I created another property like `TextColor` for this purpose. (Children of group box will use fore color of group box by default, unless you change their fore color property.)
