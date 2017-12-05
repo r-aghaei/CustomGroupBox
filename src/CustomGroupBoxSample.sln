@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGroupBoxSample", "CustomGroupBoxSample\CustomGroupBoxSample.csproj", "{0E9F60CB-B758-4508-B916-044826B44331}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{9F53371F-8842-4718-A54F-3BBDE7AB1515}"
+	ProjectSection(SolutionItems) = preProject
+		..\customgroupbox.png = ..\customgroupbox.png
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
