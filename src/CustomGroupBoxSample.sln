@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGroupBoxSample", "CustomGroupBox\CustomGroupBoxSample.csproj", "{0E9F60CB-B758-4508-B916-044826B44331}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGroupBoxSample", "CustomGroupBoxSample\CustomGroupBoxSample.csproj", "{0E9F60CB-B758-4508-B916-044826B44331}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
